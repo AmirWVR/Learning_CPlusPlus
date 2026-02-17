@@ -1,2 +1,3 @@
-# Learning-C-
-c++ journey
+# Learning C
+
+c++ is fun!
