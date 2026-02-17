@@ -1,0 +1,1 @@
+Logging the first chapter of C++ learning here. Anything I wish to take note of will be dumped here
